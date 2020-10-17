@@ -5,6 +5,8 @@ using namespace std;
 int main()
 {
     int mues,sum=0;
+    int b=2;
+    cout<<b;
     float prom;//AQUIIIIIIIIII
     for(int con=0; con<10; con=con+1)
     {
